@@ -52,6 +52,5 @@ sudo ./slave.sh
 ## Change log
 
 ## 交流反馈
-chenxiaoquan233:  
 邮箱: chenxiaoquan233@gmail.com  
 QQ: 770355275
